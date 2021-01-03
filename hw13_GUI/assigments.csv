@@ -1,0 +1,15 @@
+patient_number,as_date,as_name,as_dose,as_count
+1,2020-12-01,Ibuprom,85,4
+2,2020-11-01,Kopacul,15,2
+3,2020-10-01,Magenta,86,4
+4,2020-09-01,Estates,73,5
+5,2020-08-01,Ikarus,31,4
+1,2020-11-01,Ibuprom,31,6
+4,2020-11-11,Buckinghamshire,7,3
+2,2020-11-21,Ibuprom,43,3
+4,2020-10-09,Kopacul,54,3
+5,2020-01-01,Magenta,75,7
+1,2020-01-02,Estates,51,3
+2,2020-06-03,Ikarus,56,7
+3,2020-12-01,Berkshire,83,5
+4,2020-11-01,Buckinghamshire,10,5
